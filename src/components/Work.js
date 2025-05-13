@@ -1,14 +1,14 @@
 
  import "./WorkCardstyles.css";
  import WorkCard from "./WorkCard";
- import WorkCradData from "./WorkCradData";
+ import WorkCardData from "./WorkCardData";
  import React from "react";
  
  const Work =()=>{
     return <div className="work-container"> 
      <h1 className="project-heading"> Project</h1>
      <div className="project-contianer">
-      {WorkCradData.map((val,ind) =>{
+      {WorkCardData.map((val,ind) =>{
         return(
             <WorkCard
              key={ind}
