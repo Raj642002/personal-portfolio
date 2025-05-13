@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.4eb13163.css",
-    "main.js": "/personal-portfolio/static/js/main.ddc26713.js",
-    "static/media/p2.png": "/personal-portfolio/static/media/p2.eccac8654f969936b38e.png",
-    "static/media/amazon.png": "/personal-portfolio/static/media/amazon.97e9a8f1f6362a4af893.png",
-    "static/media/img_for_project_page.webp": "/personal-portfolio/static/media/img_for_project_page.7e77d7e87662f1663609.webp",
-    "static/media/about1.jpg": "/personal-portfolio/static/media/about1.dd6c575c4cfffd11283a.jpg",
-    "index.html": "/personal-portfolio/index.html",
-    "main.4eb13163.css.map": "/personal-portfolio/static/css/main.4eb13163.css.map",
-    "main.ddc26713.js.map": "/personal-portfolio/static/js/main.ddc26713.js.map"
+    "main.css": "/Future_FS_01/static/css/main.4eb13163.css",
+    "main.js": "/Future_FS_01/static/js/main.089e91ad.js",
+    "static/media/p2.png": "/Future_FS_01/static/media/p2.eccac8654f969936b38e.png",
+    "static/media/amazon.png": "/Future_FS_01/static/media/amazon.97e9a8f1f6362a4af893.png",
+    "static/media/img_for_project_page.webp": "/Future_FS_01/static/media/img_for_project_page.7e77d7e87662f1663609.webp",
+    "static/media/about1.jpg": "/Future_FS_01/static/media/about1.dd6c575c4cfffd11283a.jpg",
+    "index.html": "/Future_FS_01/index.html",
+    "main.4eb13163.css.map": "/Future_FS_01/static/css/main.4eb13163.css.map",
+    "main.089e91ad.js.map": "/Future_FS_01/static/js/main.089e91ad.js.map"
   },
   "entrypoints": [
     "static/css/main.4eb13163.css",
-    "static/js/main.ddc26713.js"
+    "static/js/main.089e91ad.js"
   ]
 }
